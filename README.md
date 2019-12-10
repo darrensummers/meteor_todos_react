@@ -18,3 +18,4 @@ To lint:
 ```bash
 meteor npm run lint
 ```
+# meteor_todos_react
