@@ -11,7 +11,7 @@
     "@babel/runtime": "^7.7.2",
     "autoprefixer": "^9.7.1",
     "babel-helpers": "^6.24.1",
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "classnames": "^2.2.6",
     "faker": "^4.1.0",
     "prop-types": "^15.7.2",
